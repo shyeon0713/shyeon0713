@@ -9,6 +9,5 @@
 ### My Skill
 ![shyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyeon0713&show_icons=true&bg_color=0F2F4F&text_color=ffffff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyeon0713&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyeon0713&layout=compact)](https://github.com/shyeon0713/github-readme-stats)
 
 
