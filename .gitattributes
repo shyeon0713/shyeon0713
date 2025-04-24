@@ -1,2 +1,8 @@
 linguist-documentation=false
 linguist-vendored=false
+
+# Unity package manager
+Packages/
+
+# Optional: Ignore specific assets
+Assets/TextMesh Pro/
