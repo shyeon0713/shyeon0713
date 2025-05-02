@@ -5,4 +5,5 @@ linguist-vendored=false
 Packages/
 
 # Optional: Ignore specific assets
-Assets/TextMesh Pro/
+
+TextMesh Pro/ 
